@@ -35,9 +35,12 @@ void main(void)
     {
         printf("D");
     }
-    else
+    else if (average > 40)
     {
         printf("E");
     }
-    
+    else
+    {
+        printf("F");
+    }
 }
