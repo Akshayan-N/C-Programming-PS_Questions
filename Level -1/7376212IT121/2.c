@@ -30,6 +30,6 @@ void main(void)
         return ; 
     }
 
-    printf("Price : .2f ", total_cost);
+    printf("Price : .2f ", (float) total_cost);
 
 }
