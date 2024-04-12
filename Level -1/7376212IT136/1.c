@@ -16,7 +16,7 @@ int main(void)
     for (int i = start; i <= end; i++)
     {
         int flag = 1;
-        for (int j = 2; j < sqrt(i); j++)
+        for (int j = 2; j <= sqrt(i); j++)
         {
             if (i % j == 0)
             {
