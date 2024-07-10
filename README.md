@@ -1,14 +1,14 @@
-# # C Programming - PS Questions
+# C Programming - PS Questions
 
-![alt c-banner](imgs/c-program-banner.png)
+![C Programming Banner](imgs/c-program-banner.png)
 
-## This repository contains all the problems i solved to clearing each and every level of PS in C programming . 
+## This repository contains all the problems I solved to clear each and every level of PS in C programming.
 
-### Feel free to go through it. 
+### Feel free to go through it.
 
-> Don't Try to by heart the programs. Try to understand them and solve it on your own.
-> This is as your reference and not as your answer booklet
+> Don't try to memorize the programs. Instead, try to understand them and solve them on your own.
+> Use this as a reference and not as an answer booklet.
 
-**And also there is never only one way to solve a problems, I may have used different method and you might have a different method on your mind. So try to do it own way**.
+**Remember, there's never only one way to solve a problem. I may have used a different method than what you have in mind. So, try to solve it in your own way.**
 
 Happy Learning!!!
