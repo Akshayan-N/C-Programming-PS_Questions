@@ -1,4 +1,4 @@
-// 1.Buy tickets based on age.(if greater than 12 print adult ticket if less than print eligible for child discount)  
+//Buy tickets based on age.(if greater than 12 print adult ticket if less than print eligible for child discount)  
 
 #include <stdio.h>
 

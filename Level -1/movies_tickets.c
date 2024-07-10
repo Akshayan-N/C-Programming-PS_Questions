@@ -4,11 +4,10 @@
 // If the total persons is more than 5 then there is a discount of 10% in the movie ticket, if not print the original ticket cost.
 
 #include <stdio.h>
-#define TOTAL_GRP 3
 
 void main(void)
 {
-    
+    int TOTAL_GRP = 3;
     int cost[] = {5, 7, 5};
     char* list[] = {"children", "Adults", "old-age people"};
     int total_count = 0;

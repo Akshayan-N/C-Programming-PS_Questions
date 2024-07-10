@@ -1,4 +1,4 @@
-// 2.To find whether the given input is vowel or consonant(if letter) or invalid input(if numbers)
+//To find whether the given input is vowel or consonant(if letter) or invalid input(if numbers)
 
 #include <stdio.h>
 #include <ctype.h>

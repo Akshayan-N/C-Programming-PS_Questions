@@ -1,4 +1,4 @@
-// 2.The attendance percentage calculation
+//The attendance percentage calculation
 
 #include <stdio.h>
 

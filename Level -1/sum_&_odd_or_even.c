@@ -1,4 +1,4 @@
-// 2) To find the sum of given two numbers and find odd or even of the sum
+//To find the sum of given two numbers and find odd or even of the sum
 
 #include <stdio.h>
 

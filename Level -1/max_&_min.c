@@ -1,4 +1,4 @@
-//  1. Find the maximum and minimum of three numbers
+//Find the maximum and minimum of three numbers
 
 #include <stdio.h>
 

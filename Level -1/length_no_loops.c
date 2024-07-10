@@ -1,4 +1,4 @@
-// 1. to find the length of a number without using loop
+//to find the length of a number without using loop
 
 #include <stdio.h>
 #include <math.h>

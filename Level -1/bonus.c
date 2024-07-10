@@ -1,4 +1,4 @@
-// 1. A company  decides to give bonus to all its employees on new year.
+//A company  decides to give bonus to all its employees on new year.
 // A 5% bonus on salary is given to male workers and 10% bonus on salary is given to female workers.  
 // write a C program to enter the salary and gender of the employees.  
 // If the salary of the employee is less than 10000, then the employee gets an extra 2% bonus on salary.  

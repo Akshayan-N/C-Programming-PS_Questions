@@ -1,4 +1,4 @@
-// 1. Check wheather the given number is odd or even. 
+//Check wheather the given number is odd or even. 
 // If the number is odd multiply by three.
 // If the given number is even divided by three(12(input)4(output)).
 

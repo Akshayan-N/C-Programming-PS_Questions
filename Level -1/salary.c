@@ -1,4 +1,4 @@
-// 2. The total salary and expenditure will be given,Find savings and savings percent
+//The total salary and expenditure will be given,Find savings and savings percent
 
 #include <stdio.h>
 

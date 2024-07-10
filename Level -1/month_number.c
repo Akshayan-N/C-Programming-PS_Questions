@@ -1,4 +1,4 @@
-// 1) Write a program to input month number and print month Name.
+//Write a program to input month number and print month Name.
 #include <stdio.h>
 
 void main(void)

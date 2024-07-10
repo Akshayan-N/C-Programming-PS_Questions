@@ -1,4 +1,4 @@
-// 1.odd or even program 
+//odd or even program 
 
 #include <stdio.h>
 

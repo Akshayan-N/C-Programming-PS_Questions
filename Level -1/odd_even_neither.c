@@ -1,45 +1,44 @@
-    //  2. To print whether the given two inputs are even, odd or neither even or odd. 
+//  2. To print whether the given two inputs are even, odd or neither even or odd. 
 
-    #include <stdio.h>
-    #include <ctype.h>
-    #include <stdlib.h>
+#include <stdio.h>
+#include <ctype.h>
+#include <stdlib.h>
 
-    #define MAX_LENGTH 20
-
-    int main(void)
+int main(void)
+{
+    int MAX_LENGTH = 20;
+    char number[MAX_LENGTH];
+    printf("Enter the number : ");
+    scanf("%s", number);
+    
+    int flag = 1;
+    int last_digit;
+    for (int i = 0; number[i] != '\0'; i++)
     {
-        char number[MAX_LENGTH];
-        printf("Enter the number : ");
-        scanf("%s", number);
-        
-        int flag = 1;
-        int last_digit;
-        for (int i = 0; number[i] != '\0'; i++)
+        if (!isdigit(number[i]))
         {
-            if (!isdigit(number[i]))
-            {
-                flag = 0;
-                break;
-            }
-            if (number[i+1] == '\0')
-            {
-                last_digit = atoi(&number[i]);
-            }
+            flag = 0;
+            break;
         }
-        if (flag)
+        if (number[i+1] == '\0')
         {
-            if (last_digit % 2)
-            {
-                printf("ODD");
-            }
-            else
-            {
-                printf("EVEN");
-            }
+            last_digit = atoi(&number[i]);
+        }
+    }
+    if (flag)
+    {
+        if (last_digit % 2)
+        {
+            printf("ODD");
         }
         else
         {
-            printf("Neither Even or Odd");
-            return 0;
+            printf("EVEN");
         }
     }
+    else
+    {
+        printf("Neither Even or Odd");
+        return 0;
+    }
+}

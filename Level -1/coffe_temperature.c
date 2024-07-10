@@ -1,9 +1,9 @@
-//  2. If the coffee is more than the heat level print "Coffe is hot" else print "low"  
+//If the coffee is more than the heat level print "Coffe is hot" else print "low"  
 
 #include <stdio.h>
-#define THRESHOLD_TEMP 30
 void main(void)
 {
+    int THRESHOLD_TEMP = 30;
     float temp;
     printf("Enter the temperature of the coffee : ");
     scanf("%f", &temp);

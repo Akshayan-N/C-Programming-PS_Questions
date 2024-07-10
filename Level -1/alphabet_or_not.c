@@ -1,4 +1,4 @@
-// 1. To find the given input is alphabet or not 
+//To find the given input is alphabet or not 
 
 #include <stdio.h>
 #include <ctype.h>

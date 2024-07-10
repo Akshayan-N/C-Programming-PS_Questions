@@ -1,4 +1,4 @@
-// 1) To find odd and even sum of a given number without using loops Eg 1234 is the given digit, 
+//To find odd and even sum of a given number without using loops Eg 1234 is the given digit, 
 // evensum=6(2+4) oddsum=4(1+3)only 4digit numbers will be given. 
 
 

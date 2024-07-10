@@ -1,4 +1,4 @@
-// 1.lowercase and uppercase characters into two separate strings.
+//lowercase and uppercase characters into two separate strings.
 
 #include <stdio.h>
 #include <string.h>

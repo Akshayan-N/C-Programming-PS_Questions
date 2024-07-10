@@ -1,4 +1,4 @@
-// 1.To find compound interest .the formula is given
+//To find compound interest .the formula is given
 
 #include <stdio.h>
 #include <math.h>

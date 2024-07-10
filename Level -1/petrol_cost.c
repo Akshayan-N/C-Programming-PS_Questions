@@ -1,12 +1,12 @@
-//  2.  using logical operator and arthimetic  operator to find the petrol cost 
+//using logical operator and arthimetic  operator to find the petrol cost 
 
 #include <stdio.h>
 
-#define PETROL_PRICE_PER_LITER 2.5
-#define DISCOUNT_THRESHOLD 20
-#define DISCOUNT_PERCENTAGE 5
-
 int main(void) {
+    float PETROL_PRICE_PER_LITER  = 2.5;
+    int DISCOUNT_THRESHOLD  = 20;
+    int DISCOUNT_PERCENTAGE  = 5;
+    
     float liters, cost, discount, final_cost;
 
     // Input the number of liters

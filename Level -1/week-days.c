@@ -1,4 +1,4 @@
-//2) To input a number between 1 to 7 and print the corresponding day of the week.(1-Monday, 2-Tuesday etc) 
+//To input a number between 1 to 7 and print the corresponding day of the week.(1-Monday, 2-Tuesday etc) 
 
 #include <stdio.h>
 

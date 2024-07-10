@@ -1,4 +1,4 @@
-// 2. To find the fine amount in library ,
+//To find the fine amount in library ,
 // 2 types of  book is given for each type certain amount of fine also there , 
 // you should get days and type of the book and calculate the fine by multiplying.     
 

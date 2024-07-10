@@ -1,4 +1,4 @@
-// 1. Find the shipping cost of the product by multiplying the given cost value according to the range.
+//Find the shipping cost of the product by multiplying the given cost value according to the range.
 
 #include <stdio.h>
 

@@ -1,4 +1,4 @@
-// 1.Given with the inital stock price value and and no of stocks to purchase and current stock price value,
+//Given with the inital stock price value and and no of stocks to purchase and current stock price value,
 // display the profiit and loss (formula was given)
 
 #include <stdio.h>

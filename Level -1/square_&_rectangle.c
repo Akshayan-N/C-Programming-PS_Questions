@@ -1,4 +1,4 @@
-// 1. Write a C program that reads the dimensions (width and height) of a shape and 
+//Write a C program that reads the dimensions (width and height) of a shape and 
 // if both sides are same its square , else its rectangle. 
 // Print the shape name and its area.
 

@@ -1,4 +1,4 @@
-// conversion of farenheit to celcius  
+//conversion of farenheit to celcius  
 
 #include <stdio.h>
 

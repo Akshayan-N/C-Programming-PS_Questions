@@ -1,4 +1,4 @@
-//  2.Get 3 inputs from the user First get the selling price per unit.Next the quantity sold .
+//Get 3 inputs from the user First get the selling price per unit.Next the quantity sold .
 // Then The input Of middlemen used.Choose from these middlemen A, B and C who deducts 10%, 20% and 30% respectively
 // Find the total revenue after deduction by the middlemen
 // Display "Invalid middleman" if the middlemen entered is nt A, B, C and print the original amount without deduction any deduction

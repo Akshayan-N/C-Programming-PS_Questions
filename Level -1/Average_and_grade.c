@@ -1,4 +1,4 @@
-// 1. To find the average of 5 marks if calculate grade for that marks
+//To find the average of 5 marks if calculate grade for that marks
 #include <stdio.h>
 
 void main(void)

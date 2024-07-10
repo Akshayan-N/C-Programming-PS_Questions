@@ -1,4 +1,4 @@
-// 2.greatest of three numbers
+//greatest of three numbers
 
 #include <stdio.h>
 

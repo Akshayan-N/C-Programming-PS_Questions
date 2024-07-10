@@ -3,10 +3,9 @@
 #include <stdio.h>
 #include <ctype.h>
 
-#define MAX_LENGTH 25
-
 int main(void)
 {
+    int MAX_LENGTH = 25;
     char string[MAX_LENGTH];
     printf("Enter the string : ");
     fgets(string, MAX_LENGTH, stdin);

@@ -1,4 +1,4 @@
-// 2) If the given two input numbers are equal print 0 else print its difference.
+//If the given two input numbers are equal print 0 else print its difference.
 
 #include <stdio.h>
 
