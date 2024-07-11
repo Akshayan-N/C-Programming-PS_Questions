@@ -1,5 +1,3 @@
-// Depending 
-//This is let to be implemented , so Skip this one
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
